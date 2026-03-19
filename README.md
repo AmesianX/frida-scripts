@@ -9,7 +9,8 @@
 
 A collection of my Frida.re instrumentation scripts to facilitate reverse engineering of mobile apps and more.
 
-*Note: My iOS and Android scripts might require some tweakings. For a well-maintained project that includes some of my Frida scripts, refer to [Brida](https://github.com/federicodotta/Brida).*
+> [!NOTE]
+> My iOS and Android scripts might require some tweakings. For a well-maintained project that includes some of my Frida scripts, refer to [Brida](https://github.com/federicodotta/Brida).
 
 ![](https://raw.githubusercontent.com/0xdea/frida-scripts/master/.img/bin.jpg)
 
